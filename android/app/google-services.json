@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159356839843",
+    "project_id": "fmsa-6bede",
+    "storage_bucket": "fmsa-6bede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159356839843:android:d20b69ddbdaeb77dd59c16",
+        "android_client_info": {
+          "package_name": "com.example.fmsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159356839843-f9fjs2tkedbsj5m1m7382lig6f5hml4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKXo9Ew9ppK8OC7c0heh8FK3gHs5ageM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159356839843-f9fjs2tkedbsj5m1m7382lig6f5hml4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
